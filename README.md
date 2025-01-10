@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript pitfall: implicit type coercion leading to unexpected string concatenation. The `bug.js` file shows the erroneous behavior where a number and a string are added, resulting in string concatenation instead of numerical addition. The `bugSolution.js` file offers a corrected version with explicit type checking or conversion.
